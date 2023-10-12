@@ -1,0 +1,6 @@
+English#4#5
+Computer#8#12
+Mathematics#1#3
+Mehmet TARAK#Istanbul#1#31
+Canan KAYA#Izmir#3#39
+Ece YILMAZ#Ankara#0#61
